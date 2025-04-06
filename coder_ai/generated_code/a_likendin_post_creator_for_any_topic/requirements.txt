@@ -1,5 +1,0 @@
-langgraph>=0.0.30
-langchain-core>=0.1.40
-pydantic>=2.0.0
-# Add specific LLM provider if needed, e.g.:
-# langchain-openai>=0.1.0
