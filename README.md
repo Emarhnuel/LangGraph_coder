@@ -121,11 +121,4 @@ crewai flow plot
 *   **Flow & State:** Modify the overall application flow, user interaction, or the `LangGraphCoderState` model in `src/coder_ai/main.py`.
 *   **Tools:** Enhance the `DocumentationCrawlerTool` or add new custom tools in the `src/coder_ai/tools/` directory.
 
-## Support
 
-For support, questions, or feedback regarding CrewAI:
-
-*   Visit the [CrewAI documentation](https://docs.crewai.com)
-*   Check the [GitHub repository](https://github.com/joaomdmoura/crewai)
-*   [Join the Discord community](https://discord.com/invite/X4JWnZnxPb)
-*   [Chat with the docs bot](https://chatg.pt/DWjSBZn)
